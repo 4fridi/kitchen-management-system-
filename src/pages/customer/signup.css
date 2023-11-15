@@ -1,0 +1,47 @@
+label {
+    color: white;
+}
+.sin-head h1{
+    text-align:center;
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+}
+
+.signup-form{
+    padding: 5%;
+    border: 1px solid;
+    border-radius: 80px;
+    width:70%;
+    margin-left:10rem;
+    box-shadow: 1px 2px;
+    margin-bottom: 1rem;
+}
+
+.sub-of-sign {
+    color: #fbfcfd;
+    border: 1px solid #fff;
+    border-radius:100px;
+    cursor: pointer;
+    color: black;
+    width: 30%;
+    height: 40px;
+    transition-duration: 0.4s;
+    box-shadow: 3px 3px 3px 4px #5f5e5d;
+}
+
+.sub-of-sign:hover {
+    background-color: black;
+    color: white;
+}
+
+.foot-sig{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
